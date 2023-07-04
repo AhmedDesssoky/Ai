@@ -1,0 +1,7 @@
+gunicorn
+flask
+dlib
+face-recognition
+numpy
+Pillow
+pickle
